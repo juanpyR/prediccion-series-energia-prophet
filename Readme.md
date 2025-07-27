@@ -26,8 +26,10 @@ Asegúrate de tener instaladas las siguientes librerías de Python:
 
 Puedes instalarlas todas con:
 
-```bash
+```
 pip install pandas matplotlib prophet scikit-learn
+
+```
 
 ## ⚙️ Nota importante sobre Prophet
 
