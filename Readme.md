@@ -95,7 +95,8 @@ A continuación, se incluyen ejemplos de los gráficos y resumen generados:
 ![Resumen de Métricas](imagen/resumen.png)
 
 ---
-##🚀 Cómo usar este proyecto
+
+## 🚀 Cómo usar este proyecto
 
 Para ejecutar el proyecto, sigue estos pasos:
 
@@ -122,5 +123,5 @@ cd prediccion-series-energia-prophet
 ```
 
 ---
-##🤝 Contribuciones
+## 🤝 Contribuciones
 Este proyecto está abierto a mejoras y sugerencias. Puedes colaborar abriendo un issue o enviando un pull request.
