@@ -38,17 +38,23 @@ pip install pandas matplotlib prophet scikit-learn
 
 ## 📁 Dataset
 
-El dataset utilizado debe estar en la raíz del proyecto con el siguiente nombre:
+El dataset utilizado puede descargarse desde la siguiente URL oficial:  
+
+[Open Power System Data — Time Series](https://data.open-power-system-data.org/time_series/2020-10-06)
+
+Dentro de la descarga, el archivo principal para este proyecto es:
 
 `time_series_30min_singleindex.csv`
 
 Este archivo contiene múltiples columnas relacionadas con:
 
-- Carga eléctrica real y pronosticada
-- Generación eólica y solar
+- Carga eléctrica real y pronosticada  
+- Generación eólica y solar  
 - Capacidad instalada  
+
 Todo en diferentes regiones europeas, en intervalos de **30 minutos**.
 
+Puedes colocar este archivo en la raíz del proyecto para que el script pueda cargarlo directamente
 ---
 
 ## 📊 Variables utilizadas
