@@ -104,6 +104,7 @@ Clona o descarga este repositorio.
 Descarga el dataset desde el enlace indicado y colócalo en la raíz con el nombre time_series_30min_singleindex.csv.
 
 ---
+
 ## 📥 Clonar este repositorio
 
 Puedes clonar el repositorio con el siguiente comando:
@@ -119,5 +120,7 @@ Luego entra a la carpeta del proyecto:
 cd prediccion-series-energia-prophet
 
 ```
+
+---
 ##🤝 Contribuciones
 Este proyecto está abierto a mejoras y sugerencias. Puedes colaborar abriendo un issue o enviando un pull request.
