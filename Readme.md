@@ -56,7 +56,6 @@ Este archivo contiene múltiples columnas relacionadas con:
 
 Todo en diferentes regiones europeas, en intervalos de **30 minutos**.
 
-Puedes colocar este archivo en la raíz del proyecto para que el script pueda cargarlo directamente
 ---
 
 ## 📊 Variables utilizadas
@@ -78,3 +77,47 @@ Por cada variable analizada, el script generará:
 
 - Un **gráfico** comparativo entre los valores reales y la predicción generada por `Prophet`.
 - Una **tabla resumen** con las métricas de evaluación del modelo:
+
+---
+
+## 📊 Resultados Visuales
+
+A continuación, se incluyen ejemplos de los gráficos y resumen generados:
+
+### Comparación Real vs Predicción
+
+![Comparación Real vs Predicción](imagen/graficos.png)
+
+---
+
+### Resumen de Métricas
+
+![Resumen de Métricas](imagen/resumen.png)
+
+---
+##🚀 Cómo usar este proyecto
+
+Para ejecutar el proyecto, sigue estos pasos:
+
+Clona o descarga este repositorio.
+
+Descarga el dataset desde el enlace indicado y colócalo en la raíz con el nombre time_series_30min_singleindex.csv.
+
+---
+## 📥 Clonar este repositorio
+
+Puedes clonar el repositorio con el siguiente comando:
+
+```
+git clone https://github.com/juanpyR/prediccion-series-energia-prophet.git
+
+```
+
+Luego entra a la carpeta del proyecto:
+
+```
+cd prediccion-series-energia-prophet
+
+```
+##🤝 Contribuciones
+Este proyecto está abierto a mejoras y sugerencias. Puedes colaborar abriendo un issue o enviando un pull request.
